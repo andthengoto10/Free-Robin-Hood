@@ -9,3 +9,6 @@ Für diese Aufgabe benötigen Sie möglicherweise die folgenden Methoden:
  • getElementById;
  • appendChild
  Viel Glück!
+ 
+ 
+![alt text](https://github.com/andthengoto10/Free-Robin-Hood/blob/master/Robin.gif?raw=true)
